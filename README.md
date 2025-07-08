@@ -17,4 +17,4 @@ The goal is to perform data cleaning, statistical analysis, and visualizations t
 
 ## Installation
 the repository:
-   [git rep](https://github.com/Abre1234/EDA_PowerCo)
+   [git rep_file](https://github.com/Abre1234/EDA_PowerCo/blob/main/EDA_(2).ipynb)
