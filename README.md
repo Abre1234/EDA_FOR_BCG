@@ -12,9 +12,8 @@ The goal is to perform data cleaning, statistical analysis, and visualizations t
 
 ## Files
 - `EDA_PowerCo.ipynb`: Jupyter notebook with the complete EDA process, including data loading, cleaning, and visualizations.
-- `client_data (1).csv`: Client dataset (stored in Google Drive: `/content/drive/MyDrive/Colab Notebooks/BCG/`).
-- `price_data (1).csv`: Price dataset (stored in Google Drive: `/content/drive/MyDrive/Colab Notebooks/BCG/`).
-
+- `price_data (1).csv`: Price dataset included in the repository.
+- `client_data.csv`: dataset included in the repository.
 ## Installation
 the repository:
    [git rep_file](https://github.com/Abre1234/EDA_PowerCo/blob/main/EDA_(2).ipynb)
