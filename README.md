@@ -16,6 +16,6 @@ The goal is to perform data cleaning, statistical analysis, and visualizations t
 - `price_data (1).csv`: Price dataset (stored in Google Drive: `/content/drive/MyDrive/Colab Notebooks/BCG/`).
 
 ## Installation
-1. Clone the repository:
-   ```bash
+the repository:
+   
   [ git rep]:(https://github.com/Abre1234/EDA_PowerCo)
